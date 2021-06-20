@@ -1,0 +1,29 @@
+# idea
+.idea/
+*.iml
+.project
+.settings/
+
+# building
+target/
+
+bin/
+resources/
+
+*.zip
+*.class
+*.log
+*.jar
+
+
+
+metastore_db
+
+*.pyc
+*.patch
+/project/
+
+
+/spark-warehouse/
+/further_analytics/
+/.bsp/
